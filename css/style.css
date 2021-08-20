@@ -248,7 +248,7 @@ a:focus {
     margin-bottom: 45px;
     padding: 120px 0 0 0;
     overflow: hidden;
-    background: linear-gradient(rgba(160, 158, 158, 0.95), rgba(124, 124, 124, 0.95)), url(../img/hero-bg.jpg);
+    background: linear-gradient(rgba(95, 117, 243, 0.95), rgba(134, 117, 192, 0.95)), url(../img/hero-bg.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -731,6 +731,7 @@ a:focus {
     position: relative;
     width: 100%;
     padding: 45px 0 15px 0;
+    background: #FFE5E5;
 }
 
 .service .service-item {
@@ -1215,8 +1216,8 @@ a:focus {
 .testimonial {
     position: relative;
     margin: 45px 0;
-    padding: 90px 0;
-    background: #929292;
+    padding: 50px 0;
+    background: #E9F9FF;
 }
 
 .testimonial .container {
@@ -1230,7 +1231,8 @@ a:focus {
 
 .testimonial .testimonial-icon i {
     font-size: 60px;
-    color: rgba(256, 256, 256, .5);
+    color: #EF233C;
+    
 }
 
 .testimonial .testimonial-item {
@@ -1249,7 +1251,7 @@ a:focus {
     margin: 0 auto;
     width: 120px;
     padding: 10px;
-    border: 5px dotted #ffffff;
+    border: 5px dotted #A80000;
     border-radius: 100px;
 }
 
@@ -1291,11 +1293,11 @@ a:focus {
     width: 12px;
     height: 12px;
     border-radius: 50%;
-    background: rgba(256, 256, 256, .5);
+    background: rgba(255, 300, 256, .5);
 }
 
 .testimonial .owl-dot.active {
-    background: #ffffff;
+    background: #ff0303;
 }
 
 
@@ -1391,7 +1393,7 @@ a:focus {
 .footer {
     position: relative;
     margin-top: 45px;
-    background: #0b704e;
+    background: #7390cf;
 }
 
 .footer .container-fluid {
